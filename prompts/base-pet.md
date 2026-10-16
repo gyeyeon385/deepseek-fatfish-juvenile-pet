@@ -1,0 +1,7 @@
+Create one clean full-body reference sprite for ChatGPT pet DeepSeek 大肥魚・幼年.
+
+Pet identity: Use the supplied final juvenile art as the sole authoritative character reference. Match its precise body proportions, large round chibi head, blue hair and whale tail, blue-white maid uniform, visible shoes, and the small navy whale emblem centered on the white apron. Preserve the supplied blue palette: clear medium DeepSeek blues, no near-black navy clothing. Maintain the exact face, eye construction, uniform silhouette, apron, and emblem in all states. Full-body character, no visible legs beyond the tiny heel/sock and shoes shown in the reference. Transparent final sprite background..
+Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `brand-inspired`: Brand-inspired mascot using approved public or user-provided brand cues such as colors, mascot themes, and vibe while avoiding readable text or logo copying unless explicitly approved.
+
+
+Place a single centered pose on a perfectly flat pure green #00FF00 chroma-key background. Keep the full pet visible, compact, readable at 192x208, and easy to animate. Preserve approved reference identity cues. No scenery, text, borders, checkerboard transparency, shadows, glows, detached effects, or extra props. Keep #00FF00 and close colors out of the pet, props, highlights, and effects.

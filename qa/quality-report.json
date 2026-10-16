@@ -1,0 +1,70 @@
+{
+  "ok": true,
+  "atlas": "final-spritesheet.webp",
+  "encoded_bytes": 3176160,
+  "sha256": "7cd12786d738996f5ccf75f73689bf12e0cb8d2236e3b79c4e07775a986b9e28",
+  "jump": {
+    "idle_baseline": 201,
+    "jump_baselines": [
+      201,
+      201,
+      185,
+      179,
+      201
+    ],
+    "airborne_lift_pixels": 22,
+    "landing_delta_pixels": 0
+  },
+  "look_registration": {
+    "neutral_center_x": 96.0,
+    "look_centers_x": [
+      94.5,
+      94.0,
+      94.0,
+      94.5,
+      95.5,
+      94.0,
+      94.0,
+      94.5,
+      95.0,
+      95.0,
+      95.5,
+      94.5,
+      95.0,
+      95.5,
+      95.5,
+      94.5
+    ],
+    "look_widths": [
+      157,
+      148,
+      150,
+      147,
+      147,
+      148,
+      148,
+      151,
+      142,
+      142,
+      141,
+      141,
+      140,
+      141,
+      141,
+      141
+    ],
+    "maximum_center_drift_pixels": 2.0,
+    "maximum_width_ratio": 1.1214285714285714
+  },
+  "errors": [],
+  "warnings": [
+    "look direction 157.5 accepted with a reviewed warning",
+    "look direction 202.5 accepted with a reviewed warning",
+    "look direction 337.5 accepted with a reviewed warning",
+    "157.5->180 diff is a local outlier (3807 pixels vs neighbor average 924)",
+    "225->247.5 diff is a local outlier (916 pixels vs neighbor average 620)",
+    "270->292.5 diff is a local outlier (752 pixels vs neighbor average 418)",
+    "337.5->000 diff is a local outlier (4091 pixels vs neighbor average 1764)",
+    "337.5->000 sprite area ratio is high (1.16)"
+  ]
+}
